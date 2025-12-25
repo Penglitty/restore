@@ -1,0 +1,55 @@
+
+buff.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff/1
+  rotate: true
+  xy: 400, 118
+  size: 125, 76
+  orig: 350, 350
+  offset: 125, 61
+  index: -1
+buff/2
+  rotate: false
+  xy: 277, 14
+  size: 121, 229
+  orig: 350, 350
+  offset: 123, 55
+  index: -1
+buff/3
+  rotate: false
+  xy: 2, 4
+  size: 137, 243
+  orig: 350, 350
+  offset: 119, 51
+  index: -1
+buff/4
+  rotate: false
+  xy: 2, 249
+  size: 146, 258
+  orig: 350, 350
+  offset: 115, 49
+  index: -1
+buff/5
+  rotate: false
+  xy: 298, 245
+  size: 135, 262
+  orig: 350, 350
+  offset: 115, 50
+  index: -1
+buff/6
+  rotate: false
+  xy: 141, 2
+  size: 134, 245
+  orig: 350, 350
+  offset: 118, 52
+  index: -1
+buff/7
+  rotate: false
+  xy: 150, 252
+  size: 146, 255
+  orig: 350, 350
+  offset: 113, 49
+  index: -1

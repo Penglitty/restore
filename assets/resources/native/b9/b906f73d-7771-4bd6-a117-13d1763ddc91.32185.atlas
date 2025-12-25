@@ -1,0 +1,132 @@
+
+boss.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao2/0
+  rotate: true
+  xy: 767, 125
+  size: 307, 203
+  orig: 314, 209
+  offset: 4, 1
+  index: -1
+bao2/1
+  rotate: true
+  xy: 259, 11
+  size: 414, 254
+  orig: 418, 272
+  offset: 2, 4
+  index: -1
+bao2/2
+  rotate: true
+  xy: 2, 11
+  size: 414, 255
+  orig: 418, 273
+  offset: 2, 4
+  index: -1
+bao2/3
+  rotate: true
+  xy: 515, 20
+  size: 406, 250
+  orig: 419, 273
+  offset: 6, 5
+  index: -1
+boss/boss_an1
+  rotate: false
+  xy: 767, 2
+  size: 57, 121
+  orig: 59, 123
+  offset: 1, 1
+  index: -1
+boss/boss_an2
+  rotate: false
+  xy: 461, 428
+  size: 80, 129
+  orig: 80, 129
+  offset: 0, 0
+  index: -1
+boss/boss_dabiL
+  rotate: false
+  xy: 997, 708
+  size: 87, 132
+  orig: 88, 132
+  offset: 0, 0
+  index: -1
+boss/boss_datuiL
+  rotate: true
+  xy: 543, 431
+  size: 126, 165
+  orig: 126, 165
+  offset: 0, 0
+  index: -1
+boss/boss_datuiR
+  rotate: true
+  xy: 710, 434
+  size: 123, 215
+  orig: 123, 215
+  offset: 0, 0
+  index: -1
+boss/boss_kua
+  rotate: true
+  xy: 936, 842
+  size: 177, 103
+  orig: 177, 103
+  offset: 0, 0
+  index: -1
+boss/boss_shen
+  rotate: false
+  xy: 461, 559
+  size: 368, 460
+  orig: 368, 460
+  offset: 0, 0
+  index: -1
+boss/boss_shouR
+  rotate: false
+  xy: 1041, 902
+  size: 107, 117
+  orig: 109, 120
+  offset: 1, 1
+  index: -1
+boss/boss_tou
+  rotate: false
+  xy: 826, 4
+  size: 90, 119
+  orig: 90, 119
+  offset: 0, 0
+  index: -1
+boss/boss_xiaobiL
+  rotate: false
+  xy: 927, 474
+  size: 161, 171
+  orig: 161, 174
+  offset: 0, 1
+  index: -1
+boss/boss_xiaobiR
+  rotate: true
+  xy: 831, 647
+  size: 180, 164
+  orig: 180, 164
+  offset: 0, 0
+  index: -1
+boss/boss_xiaotuiL
+  rotate: true
+  xy: 918, 6
+  size: 117, 200
+  orig: 117, 200
+  offset: 0, 0
+  index: -1
+boss/boss_xiaotuiR
+  rotate: false
+  xy: 831, 829
+  size: 103, 190
+  orig: 103, 190
+  offset: 0, 0
+  index: -1
+boss/boss_ying
+  rotate: true
+  xy: 2, 427
+  size: 592, 457
+  orig: 592, 458
+  offset: 0, 1
+  index: -1

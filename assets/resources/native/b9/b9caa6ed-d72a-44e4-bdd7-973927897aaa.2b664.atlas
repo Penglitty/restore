@@ -1,0 +1,48 @@
+
+suikuai.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+suikuai/1
+  rotate: true
+  xy: 2, 30
+  size: 222, 135
+  orig: 228, 137
+  offset: 3, 2
+  index: -1
+suikuai/2
+  rotate: true
+  xy: 283, 36
+  size: 80, 73
+  orig: 81, 75
+  offset: 0, 2
+  index: -1
+suikuai/3
+  rotate: true
+  xy: 198, 118
+  size: 134, 131
+  orig: 138, 134
+  offset: 2, 2
+  index: -1
+suikuai/4
+  rotate: true
+  xy: 139, 2
+  size: 107, 79
+  orig: 107, 81
+  offset: 0, 2
+  index: -1
+suikuai/5
+  rotate: true
+  xy: 220, 35
+  size: 81, 61
+  orig: 83, 63
+  offset: 1, 2
+  index: -1
+suikuai/6
+  rotate: true
+  xy: 139, 111
+  size: 141, 57
+  orig: 145, 59
+  offset: 2, 2
+  index: -1

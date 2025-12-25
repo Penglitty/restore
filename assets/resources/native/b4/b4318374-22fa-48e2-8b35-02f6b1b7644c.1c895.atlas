@@ -1,0 +1,104 @@
+
+siwang.png
+size: 387,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gutou
+  rotate: true
+  xy: 345, 3
+  size: 32, 24
+  orig: 33, 24
+  offset: 1, 0
+  index: -1
+jy_gebo
+  rotate: false
+  xy: 118, 70
+  size: 73, 76
+  orig: 74, 78
+  offset: 0, 1
+  index: -1
+jy_jiao
+  rotate: true
+  xy: 193, 73
+  size: 73, 72
+  orig: 73, 72
+  offset: 0, 0
+  index: -1
+jy_shou1
+  rotate: false
+  xy: 218, 2
+  size: 53, 69
+  orig: 53, 69
+  offset: 0, 0
+  index: -1
+jy_shou2
+  rotate: false
+  xy: 66, 68
+  size: 50, 78
+  orig: 50, 78
+  offset: 0, 0
+  index: -1
+jy_tui1
+  rotate: true
+  xy: 66, 4
+  size: 62, 150
+  orig: 62, 151
+  offset: 0, 1
+  index: -1
+jy_tui2
+  rotate: false
+  xy: 267, 87
+  size: 48, 59
+  orig: 50, 59
+  offset: 1, 0
+  index: -1
+ss_gebo
+  rotate: false
+  xy: 317, 99
+  size: 51, 47
+  orig: 51, 47
+  offset: 0, 0
+  index: -1
+ss_jiao
+  rotate: false
+  xy: 306, 15
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+ss_shou1
+  rotate: true
+  xy: 345, 37
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+ss_shou2
+  rotate: true
+  xy: 273, 57
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+ss_tui1
+  rotate: true
+  xy: 317, 69
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+ss_tui2
+  rotate: false
+  xy: 273, 14
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+xue
+  rotate: true
+  xy: 2, 24
+  size: 122, 62
+  orig: 123, 62
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+jiguang2.png
+size: 547,530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lan/11
+  rotate: false
+  xy: 205, 3
+  size: 90, 525
+  orig: 223, 555
+  offset: 67, 22
+  index: -1
+lan/13
+  rotate: false
+  xy: 297, 3
+  size: 89, 525
+  orig: 223, 555
+  offset: 67, 19
+  index: -1
+lan/15
+  rotate: false
+  xy: 2, 9
+  size: 101, 519
+  orig: 223, 555
+  offset: 59, 22
+  index: -1
+lan/17
+  rotate: false
+  xy: 105, 6
+  size: 98, 522
+  orig: 223, 555
+  offset: 61, 15
+  index: -1
+lan/19
+  rotate: false
+  xy: 469, 9
+  size: 76, 519
+  orig: 223, 555
+  offset: 71, 21
+  index: -1
+lan/21
+  rotate: false
+  xy: 388, 2
+  size: 79, 526
+  orig: 223, 555
+  offset: 71, 14
+  index: -1

@@ -1,0 +1,139 @@
+
+ta2_7_1bz.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/mo1
+  rotate: false
+  xy: 1473, 45
+  size: 213, 227
+  orig: 357, 296
+  offset: 81, 54
+  index: -1
+1/mo10
+  rotate: false
+  xy: 1041, 271
+  size: 213, 240
+  orig: 357, 296
+  offset: 76, 56
+  index: -1
+1/mo11
+  rotate: false
+  xy: 1046, 30
+  size: 213, 240
+  orig: 357, 296
+  offset: 76, 56
+  index: -1
+1/mo12
+  rotate: false
+  xy: 1255, 271
+  size: 212, 240
+  orig: 357, 296
+  offset: 77, 56
+  index: -1
+1/mo13
+  rotate: false
+  xy: 1260, 30
+  size: 212, 240
+  orig: 357, 296
+  offset: 77, 56
+  index: -1
+1/mo14
+  rotate: false
+  xy: 1674, 275
+  size: 201, 236
+  orig: 357, 296
+  offset: 81, 56
+  index: -1
+1/mo15
+  rotate: false
+  xy: 348, 3
+  size: 183, 197
+  orig: 357, 296
+  offset: 89, 78
+  index: -1
+1/mo16
+  rotate: true
+  xy: 1, 1
+  size: 157, 179
+  orig: 357, 296
+  offset: 101, 80
+  index: -1
+1/mo17
+  rotate: true
+  xy: 181, 34
+  size: 124, 166
+  orig: 357, 296
+  offset: 115, 80
+  index: -1
+1/mo18
+  rotate: true
+  xy: 532, 94
+  size: 106, 52
+  orig: 357, 296
+  offset: 125, 184
+  index: -1
+1/mo2
+  rotate: false
+  xy: 826, 267
+  size: 214, 244
+  orig: 357, 296
+  offset: 78, 48
+  index: -1
+1/mo3
+  rotate: true
+  xy: 1, 159
+  size: 352, 279
+  orig: 357, 296
+  offset: 4, 10
+  index: -1
+1/mo4
+  rotate: true
+  xy: 281, 201
+  size: 310, 270
+  orig: 357, 296
+  offset: 24, 13
+  index: -1
+1/mo5
+  rotate: false
+  xy: 552, 232
+  size: 273, 279
+  orig: 357, 296
+  offset: 43, 13
+  index: -1
+1/mo6
+  rotate: false
+  xy: 1687, 51
+  size: 203, 223
+  orig: 357, 296
+  offset: 76, 45
+  index: -1
+1/mo7
+  rotate: false
+  xy: 1468, 273
+  size: 205, 238
+  orig: 357, 296
+  offset: 75, 44
+  index: -1
+1/mo8
+  rotate: false
+  xy: 837, 17
+  size: 208, 249
+  orig: 357, 296
+  offset: 74, 44
+  index: -1
+1/mo9
+  rotate: true
+  xy: 585, 15
+  size: 216, 251
+  orig: 357, 296
+  offset: 72, 45
+  index: -1
+keng
+  rotate: false
+  xy: 181, 1
+  size: 58, 32
+  orig: 59, 32
+  offset: 1, 0
+  index: -1

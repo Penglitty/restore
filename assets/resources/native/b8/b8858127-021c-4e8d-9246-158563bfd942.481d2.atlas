@@ -1,0 +1,174 @@
+
+shibing.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff/1
+  rotate: false
+  xy: 152, 8
+  size: 125, 76
+  orig: 350, 350
+  offset: 125, 61
+  index: -1
+buff/2
+  rotate: false
+  xy: 554, 23
+  size: 121, 229
+  orig: 350, 350
+  offset: 123, 55
+  index: -1
+buff/3
+  rotate: false
+  xy: 279, 2
+  size: 137, 243
+  orig: 350, 350
+  offset: 119, 51
+  index: -1
+buff/4
+  rotate: false
+  xy: 354, 251
+  size: 146, 258
+  orig: 350, 350
+  offset: 115, 49
+  index: -1
+buff/5
+  rotate: false
+  xy: 217, 247
+  size: 135, 262
+  orig: 350, 350
+  offset: 115, 50
+  index: -1
+buff/6
+  rotate: false
+  xy: 418, 4
+  size: 134, 245
+  orig: 350, 350
+  offset: 118, 52
+  index: -1
+buff/7
+  rotate: false
+  xy: 502, 254
+  size: 146, 255
+  orig: 350, 350
+  offset: 113, 49
+  index: -1
+shi/jiao1
+  rotate: true
+  xy: 650, 256
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+shi/jiao2
+  rotate: false
+  xy: 724, 258
+  size: 68, 74
+  orig: 68, 74
+  offset: 0, 0
+  index: -1
+shi/jiao3
+  rotate: true
+  xy: 677, 10
+  size: 67, 117
+  orig: 67, 117
+  offset: 0, 0
+  index: -1
+shi/shi_datuiL
+  rotate: true
+  xy: 892, 273
+  size: 91, 143
+  orig: 94, 145
+  offset: 2, 1
+  index: -1
+shi/shi_datuiR
+  rotate: false
+  xy: 739, 107
+  size: 88, 149
+  orig: 91, 151
+  offset: 2, 1
+  index: -1
+shi/shi_gebo
+  rotate: false
+  xy: 946, 391
+  size: 64, 118
+  orig: 66, 121
+  offset: 1, 1
+  index: -1
+shi/shi_jianL
+  rotate: false
+  xy: 796, 7
+  size: 127, 98
+  orig: 129, 100
+  offset: 1, 1
+  index: -1
+shi/shi_jianR
+  rotate: true
+  xy: 217, 173
+  size: 72, 58
+  orig: 75, 60
+  offset: 1, 1
+  index: -1
+shi/shi_jiaoL
+  rotate: false
+  xy: 2, 4
+  size: 72, 80
+  orig: 75, 83
+  offset: 1, 2
+  index: -1
+shi/shi_jiaoR
+  rotate: false
+  xy: 76, 5
+  size: 74, 79
+  orig: 77, 82
+  offset: 1, 2
+  index: -1
+shi/shi_kua
+  rotate: false
+  xy: 925, 23
+  size: 138, 92
+  orig: 140, 95
+  offset: 1, 2
+  index: -1
+shi/shi_qiang
+  rotate: false
+  xy: 677, 79
+  size: 60, 175
+  orig: 62, 177
+  offset: 1, 1
+  index: -1
+shi/shi_shen
+  rotate: false
+  xy: 650, 334
+  size: 175, 175
+  orig: 175, 182
+  offset: 0, 0
+  index: -1
+shi/shi_tou
+  rotate: true
+  xy: 794, 267
+  size: 65, 96
+  orig: 65, 97
+  offset: 0, 0
+  index: -1
+shi/shi_xiaotuiL
+  rotate: false
+  xy: 829, 117
+  size: 119, 148
+  orig: 121, 150
+  offset: 1, 1
+  index: -1
+shi/shi_xiaotuiR
+  rotate: false
+  xy: 827, 366
+  size: 117, 143
+  orig: 117, 145
+  offset: 0, 2
+  index: -1
+shi/ying
+  rotate: true
+  xy: 2, 86
+  size: 423, 213
+  orig: 423, 213
+  offset: 0, 0
+  index: -1

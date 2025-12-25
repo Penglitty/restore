@@ -1,0 +1,62 @@
+
+sangshi.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ss/ss_geboL
+  rotate: false
+  xy: 190, 6
+  size: 88, 116
+  orig: 88, 116
+  offset: 0, 0
+  index: -1
+ss/ss_geboR
+  rotate: false
+  xy: 138, 124
+  size: 69, 121
+  orig: 69, 121
+  offset: 0, 0
+  index: -1
+ss/ss_kua
+  rotate: true
+  xy: 280, 82
+  size: 64, 44
+  orig: 64, 44
+  offset: 0, 0
+  index: -1
+ss/ss_shen
+  rotate: false
+  xy: 265, 148
+  size: 96, 97
+  orig: 96, 97
+  offset: 0, 0
+  index: -1
+ss/ss_tou
+  rotate: false
+  xy: 280, 17
+  size: 50, 63
+  orig: 52, 65
+  offset: 1, 1
+  index: -1
+ss/ss_tuiL
+  rotate: false
+  xy: 138, 2
+  size: 50, 120
+  orig: 50, 120
+  offset: 0, 0
+  index: -1
+ss/ss_tuiR
+  rotate: false
+  xy: 209, 129
+  size: 54, 116
+  orig: 54, 116
+  offset: 0, 0
+  index: -1
+ss/ss_ying
+  rotate: true
+  xy: 2, 35
+  size: 210, 134
+  orig: 210, 134
+  offset: 0, 0
+  index: -1

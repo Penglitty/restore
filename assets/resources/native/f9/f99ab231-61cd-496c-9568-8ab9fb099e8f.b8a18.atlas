@@ -1,0 +1,41 @@
+
+jizhong.png
+size: 128,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jizhong/0
+  rotate: false
+  xy: 2, 2
+  size: 124, 109
+  orig: 124, 109
+  offset: 0, 0
+  index: -1
+jizhong/1
+  rotate: true
+  xy: 2, 113
+  size: 96, 98
+  orig: 124, 109
+  offset: 15, 4
+  index: -1
+jizhong/2
+  rotate: false
+  xy: 2, 211
+  size: 94, 92
+  orig: 124, 109
+  offset: 14, 6
+  index: -1
+jizhong/3
+  rotate: false
+  xy: 2, 396
+  size: 99, 83
+  orig: 124, 109
+  offset: 4, 9
+  index: -1
+jizhong/4
+  rotate: false
+  xy: 2, 305
+  size: 106, 89
+  orig: 124, 109
+  offset: 2, 7
+  index: -1

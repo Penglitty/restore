@@ -1,0 +1,55 @@
+
+shichao.png
+size: 851,906
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shichao/WARNING
+  rotate: true
+  xy: 809, 384
+  size: 158, 40
+  orig: 162, 43
+  offset: 2, 2
+  index: -1
+shichao/di
+  rotate: false
+  xy: 2, 37
+  size: 720, 237
+  orig: 722, 241
+  offset: 1, 2
+  index: -1
+shichao/di_wen
+  rotate: false
+  xy: 2, 276
+  size: 720, 266
+  orig: 722, 268
+  offset: 1, 1
+  index: -1
+shichao/hongping
+  rotate: true
+  xy: 2, 544
+  size: 360, 838
+  orig: 360, 838
+  offset: 0, 0
+  index: -1
+shichao/jinggao
+  rotate: false
+  xy: 724, 124
+  size: 98, 91
+  orig: 102, 94
+  offset: 2, 1
+  index: -1
+shichao/xian
+  rotate: false
+  xy: 2, 2
+  size: 721, 33
+  orig: 735, 37
+  offset: 5, 2
+  index: -1
+shichao/zi_shichao
+  rotate: true
+  xy: 724, 217
+  size: 325, 83
+  orig: 329, 87
+  offset: 2, 2
+  index: -1

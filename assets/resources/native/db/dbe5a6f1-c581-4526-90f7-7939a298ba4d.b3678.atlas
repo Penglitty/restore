@@ -1,0 +1,139 @@
+
+boss_sw.png
+size: 1713,1069
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+youling/1
+  rotate: false
+  xy: 1437, 19
+  size: 206, 92
+  orig: 401, 500
+  offset: 124, 52
+  index: -1
+youling/10
+  rotate: true
+  xy: 793, 36
+  size: 298, 350
+  orig: 401, 500
+  offset: 56, 23
+  index: -1
+youling/11
+  rotate: false
+  xy: 603, 336
+  size: 301, 361
+  orig: 401, 500
+  offset: 56, 23
+  index: -1
+youling/12
+  rotate: false
+  xy: 296, 293
+  size: 305, 371
+  orig: 401, 500
+  offset: 54, 23
+  index: -1
+youling/13
+  rotate: false
+  xy: 301, 699
+  size: 306, 368
+  orig: 401, 500
+  offset: 56, 36
+  index: -1
+youling/14
+  rotate: true
+  xy: 401, 3
+  size: 288, 390
+  orig: 401, 500
+  offset: 76, 22
+  index: -1
+youling/15
+  rotate: false
+  xy: 2, 272
+  size: 292, 392
+  orig: 401, 500
+  offset: 73, 23
+  index: -1
+youling/16
+  rotate: false
+  xy: 2, 666
+  size: 297, 401
+  orig: 401, 500
+  offset: 71, 23
+  index: -1
+youling/17
+  rotate: true
+  xy: 2, 2
+  size: 268, 397
+  orig: 401, 500
+  offset: 69, 23
+  index: -1
+youling/18
+  rotate: false
+  xy: 1200, 382
+  size: 269, 350
+  orig: 401, 500
+  offset: 67, 23
+  index: -1
+youling/19
+  rotate: false
+  xy: 904, 708
+  size: 271, 359
+  orig: 401, 500
+  offset: 67, 23
+  index: -1
+youling/2
+  rotate: true
+  xy: 1471, 404
+  size: 218, 136
+  orig: 401, 500
+  offset: 112, 22
+  index: -1
+youling/3
+  rotate: false
+  xy: 1471, 624
+  size: 224, 143
+  orig: 401, 500
+  offset: 106, 23
+  index: -1
+youling/4
+  rotate: true
+  xy: 1469, 769
+  size: 298, 205
+  orig: 401, 500
+  offset: 70, 38
+  index: -1
+youling/5
+  rotate: false
+  xy: 1437, 113
+  size: 274, 267
+  orig: 401, 500
+  offset: 68, 23
+  index: -1
+youling/6
+  rotate: false
+  xy: 1145, 42
+  size: 290, 329
+  orig: 401, 500
+  offset: 54, 21
+  index: -1
+youling/7
+  rotate: false
+  xy: 906, 373
+  size: 292, 333
+  orig: 401, 500
+  offset: 54, 23
+  index: -1
+youling/8
+  rotate: false
+  xy: 1177, 734
+  size: 290, 333
+  orig: 401, 500
+  offset: 61, 21
+  index: -1
+youling/9
+  rotate: false
+  xy: 609, 728
+  size: 293, 339
+  orig: 401, 500
+  offset: 59, 23
+  index: -1

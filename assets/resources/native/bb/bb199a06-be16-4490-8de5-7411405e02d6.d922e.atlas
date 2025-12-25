@@ -1,0 +1,20 @@
+
+feiji.png
+size: 1017,590
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feiji
+  rotate: true
+  xy: 2, 2
+  size: 586, 594
+  orig: 591, 612
+  offset: 5, 1
+  index: -1
+weiqi
+  rotate: true
+  xy: 598, 16
+  size: 572, 417
+  orig: 572, 460
+  offset: 0, 43
+  index: -1

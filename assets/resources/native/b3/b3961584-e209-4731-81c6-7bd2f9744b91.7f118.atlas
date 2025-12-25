@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jy/jy_geboL
+  rotate: false
+  xy: 486, 2
+  size: 95, 208
+  orig: 96, 208
+  offset: 1, 0
+  index: -1
+jy/jy_geboR
+  rotate: false
+  xy: 351, 13
+  size: 133, 194
+  orig: 133, 194
+  offset: 0, 0
+  index: -1
+jy/jy_kua
+  rotate: true
+  xy: 2, 8
+  size: 119, 90
+  orig: 119, 90
+  offset: 0, 0
+  index: -1
+jy/jy_shen
+  rotate: false
+  xy: 407, 279
+  size: 192, 231
+  orig: 192, 231
+  offset: 0, 0
+  index: -1
+jy/jy_tou
+  rotate: true
+  xy: 407, 212
+  size: 65, 95
+  orig: 67, 97
+  offset: 1, 1
+  index: -1
+jy/jy_tuiL
+  rotate: false
+  xy: 305, 209
+  size: 100, 301
+  orig: 100, 303
+  offset: 0, 1
+  index: -1
+jy/jy_tuiR
+  rotate: true
+  xy: 94, 26
+  size: 101, 255
+  orig: 101, 255
+  offset: 0, 0
+  index: -1
+jy/jy_ying
+  rotate: true
+  xy: 2, 129
+  size: 381, 301
+  orig: 401, 301
+  offset: 0, 0
+  index: -1

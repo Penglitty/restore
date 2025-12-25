@@ -1,0 +1,55 @@
+
+sl_sb.png
+size: 2003,885
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sb_guang
+  rotate: true
+  xy: 711, 163
+  size: 720, 707
+  orig: 720, 708
+  offset: 0, 0
+  index: -1
+shengli
+  rotate: false
+  xy: 1093, 30
+  size: 419, 131
+  orig: 424, 137
+  offset: 3, 3
+  index: -1
+shibai
+  rotate: false
+  xy: 674, 29
+  size: 417, 132
+  orig: 423, 137
+  offset: 3, 2
+  index: -1
+sl_guang
+  rotate: true
+  xy: 2, 163
+  size: 720, 707
+  orig: 720, 708
+  offset: 0, 0
+  index: -1
+xing
+  rotate: false
+  xy: 1514, 396
+  size: 487, 487
+  orig: 658, 658
+  offset: 85, 85
+  index: -1
+zi_guang1
+  rotate: true
+  xy: 2, 2
+  size: 159, 670
+  orig: 240, 721
+  offset: 53, 51
+  index: -1
+zi_guang2
+  rotate: false
+  xy: 1514, 55
+  size: 452, 339
+  orig: 452, 339
+  offset: 0, 0
+  index: -1
